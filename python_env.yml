@@ -10,5 +10,5 @@ dependencies:
   - mlflow
   - flax
   - jax
-  - chap_core @ git+https://github.com/dhis2/chap-core.git@9dbbdea56cc557131eaa3a887280962b30d06fce
+  - chap_core @ git+https://github.com/dhis2/chap-core.git@a83b019058b1146cdddd063fc45afc2b1d58bcc8
   - git+https://github.com/knutdrand/ch_modelling.git@7dbd7c4e5ec428fbfc5e9999f6e13943e1f1f795
